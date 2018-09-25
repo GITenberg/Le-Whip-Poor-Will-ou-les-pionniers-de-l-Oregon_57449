@@ -1,11 +1,16 @@
 _repo: Le-Whip-Poor-Will-ou-les-pionniers-de-l-Oregon_57449
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57449-h/images/cover.jpg
 creator:
   author:
     agent_name: Bouis, Amédée
     gutenberg_agent_id: '49397'
     url: http://www.gutenberg.org/2009/agents/49397
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57449#Le-Whip-Poor-Will-ou-les-pionniers-de-l-Oregon
 gutenberg_bookshelf:
 - FR Littérature
 - FR Peuples et Sociétés
